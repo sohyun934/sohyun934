@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=200&section=header&text=SoHyun%20Kim&fontSize=60&fontAlignY=35&fontAlign=51)
+![header](https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=200&section=header&text=SoHyun%20Kim&fontSize=60&fontAlignY=35&fontAlign=52)
 <h3 align="center">📚 TECH STACK 📚</h3><br/>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
