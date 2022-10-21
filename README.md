@@ -26,18 +26,10 @@
 <br/>  
 
 ## 💻 Projects
-### 1. [Cosmetics Store](https://github.com/sohyun934/cosmetics_store_project)
+### [Cosmetics Store](https://github.com/sohyun934/cosmetics_store_project)
 > 코스메틱 쇼핑 서비스 (개인 프로젝트)<br/>
 개발 기간 : 2022.05.26 ~ 2022.07.25<br/><br/>
 기술 스택 : <br/>
 React / TypeScript / JavaScript / HTML5 / CSS3<br/>
 Firebase / Webpack / Babel
-<br/>
-
-### 2. [Dog Shelter](https://github.com/sohyun934/dog_shelter_project)
-> 유기견 입양 및 제보 서비스 (팀 프로젝트)<br/>
-개발 기간 : 2020.06.01 ~ 2020.07.17<br/><br/>
-기술 스택 : <br/>
-JAVA / JSP / JavaScript / jQuery / HTML5 / CSS3<br/>
-MyBatis / Oracle SQL / Spring
 <br/>
