@@ -34,9 +34,9 @@ React / TypeScript / JavaScript / HTML5 / CSS3<br/>
 Firebase / Webpack / Babel
 <br/>
 
-### [Cosmetics Store](https://github.com/sohyun934/cosmetics_store_project)
+### [Dog Shelter][(https://github.com/sohyun934/cosmetics_store_project)](https://github.com/sohyun934/dog_shelter_project)
 > 유기견 보호소 (팀 프로젝트)<br/>
-개발 기간 : 2020.06 ~ 2022.07<br/><br/>
+개발 기간 : 2020.06 ~ 2020.07<br/><br/>
 기술 스택 : <br/>
 JAVA / JavaScript / JQuery / JSP / HTML5 / CSS3<br/>
 MyBatis / Oracle / Spring
