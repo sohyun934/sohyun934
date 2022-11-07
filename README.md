@@ -21,7 +21,7 @@
 
 ## 📌 Contact
 - 이메일 : a6570407@naver.com
-- 블로그 : https://hazel-leader-f94.notion.site/49fb6f0b7c6f411b98355938ee194c0f
+- 블로그 : https://www.notion.so/SH-s-Development-Blog-49fb6f0b7c6f411b98355938ee194c0f
 - 깃허브 : https://github.com/sohyun934
 <br/>  
 
