@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=200&section=header&text=SoHyun%20Kim&fontSize=60&fontAlignY=35&fontAlign=52)
 
-## 🌟 Intro
-<p>
-프론트엔드 개발자로 도약하기 위해 노력 중입니다.
-</p><br/>
-
 ## 📚 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
