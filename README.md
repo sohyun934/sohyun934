@@ -17,21 +17,4 @@
 ## 📌 Contact
 - 블로그 : https://hazel-leader-f94.notion.site/49fb6f0b7c6f411b98355938ee194c0f
 - 깃허브 : https://github.com/sohyun934
-<br/>  
-
-## 💻 Projects
-### [Cosmetics Store](https://github.com/sohyun934/cosmetics_store_project)
-> 코스메틱 쇼핑몰 (개인 프로젝트)<br/>
-개발 기간 : 2022.05.26 ~ 2022.07.25<br/><br/>
-기술 스택 : <br/>
-React / TypeScript / JavaScript / HTML5 / CSS3<br/>
-Firebase / Webpack / Babel
-<br/>
-
-### [Dog Shelter](https://github.com/sohyun934/dog_shelter_project)
-> 유기견 보호소 (팀 프로젝트)<br/>
-개발 기간 : 2020.06 ~ 2020.07<br/><br/>
-기술 스택 : <br/>
-JAVA / JavaScript / JQuery / JSP / HTML5 / CSS3<br/>
-MyBatis / Oracle / Spring
 <br/>
