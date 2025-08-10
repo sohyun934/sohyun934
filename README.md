@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/npm-black?style=flat-square&logo=npm&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/npm-black?style=flat-square&logo=npm&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>&nbsp
 </p><br/>
